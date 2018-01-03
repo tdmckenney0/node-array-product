@@ -1,0 +1,16 @@
+{
+  "name": "node-array-product",
+  "version": "1.0.0",
+  "description": "Product of 3 largest integers in an array.",
+  "main": "App.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha Tests.js"
+  },
+  "author": "Tanner Mckenney",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "unit.js": "^2.0.0"
+  }
+}
