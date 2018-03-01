@@ -4,7 +4,7 @@ module.exports = {
      * 
      * Function that takes an array of integers and returns the product of the largest 3 values.
      * 
-     * @author Tanner Mckenney <tmckenney7@outlook.com>
+     * @author Tanner Mckenney <tdmckenney0>
      * 
      * @param Array arr - an array of integers. 
      * 
